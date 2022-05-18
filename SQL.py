@@ -54,4 +54,4 @@ VALUES
 
 
 # add directory to database here
-connection = create_connection(r"C:\\Users\\jrs41\\Desktop\\Coding\\Dota\\Database.db") 
+connection = create_connection(r"AddConnectionPathHere") 
